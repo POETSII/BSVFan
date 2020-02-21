@@ -1,0 +1,8 @@
+demo/output_files
+demo/qdb
+demo/synth_dumps
+demo/tmp-clearbox
+demo/*.qws
+demo/*.bak
+*.bo
+*.v

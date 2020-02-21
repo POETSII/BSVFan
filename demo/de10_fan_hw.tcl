@@ -1,0 +1,1 @@
+../de10_fan_hw.tcl
